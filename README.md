@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Jeffrey Raja Rajendran
 
-<!--
-**jeffreyrajarajendran20252-sketch/jeffreyrajarajendran20252-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Based in Chennai** | Passionate about AI, Full-Stack Development & Cloud Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffreyrajarajendran20252-sketch&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreyrajarajendran20252-sketch&theme=dark" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[second-brain-productivity](https://github.com/jeffreyrajarajendran20252-sketch/second-brain-productivity)** | Modular productivity platform | `Python` `SQLite` |
+| **[airindex-india](https://github.com/jeffreyrajarajendran20252-sketch/airindex-india)** | Airfare price indexing platform | `TypeScript` `React` |
+| **[ai-exam-planner](https://github.com/jeffreyrajarajendran20252-sketch/ai-exam-planner)** | AI-powered study schedule generator | `Jupyter Notebook` `LangChain` |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `Java` `TypeScript` `SQL`
+
+**Tools & Frameworks:**  
+`React` `Streamlit` `LangChain` `Git` `GitHub` `AWS`
